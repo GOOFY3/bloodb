@@ -20,4 +20,4 @@ to those in need.
 3. Run the app using npm start
 
 ## Future Scope
-If you want to add to the codebase, feel free to fork it 
+If you want to add to the codebase, feel free to fork it and make a PR
