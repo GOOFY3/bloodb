@@ -1,7 +1,7 @@
 # bloodb
 ### Full Stack Development, IIIT Bhubaneswar
 ## Team Members-:
-    1.Siddhant Mund - https://github.com/IAMSID2
+    1.Ankit Jena - https://github.com/ankitjena
     2.P Ganesh Patro - https://github.com/GANESHPATRO321
     3.Aquib Baig - https://github.com/GOOFY3
 
@@ -10,5 +10,5 @@ This app can also be used by blood donation camps to store blood from donors, if
 to those in need. 
 
 #### frameworks used:
-    <html5><css><js><nodejs><expressjs><mongodb>
+    <html5><css><js><nodejs><expressjs><mongodb><ejs>
 
