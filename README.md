@@ -14,6 +14,7 @@ to those in need.
 1. npm
 2. node
 
+### How to run
 1. Clone this project and cd into the folder
 2. Install dependencies using npm install
 3. Run the app using npm start
